@@ -126,3 +126,7 @@ h5 {
 .last {
   margin-bottom: 30px;
 }
+
+.center {
+  float: center;
+}
